@@ -11,8 +11,10 @@
   "devDependencies": {
     "eslint": "^6.6.0",
     "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.18.2",
-    "mocha": "^6.2.2"
+    "mocha": "^6.2.2",
+    "prettier-eslint": "^15.0.1"
   },
   "repository": {
     "type": "git",
